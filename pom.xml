@@ -8,21 +8,25 @@
     <artifactId>hello-week1</artifactId>
     <version>1.0.0.BUILD-SNAPSHOT</version>
 
+    <properties>
+        <springframework.version>4.3.0.RELEASE</springframework.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
-            <version>4.3.0.RELEASE</version>
+            <version>${springframework.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>4.3.0.RELEASE</version>
+            <version>${springframework.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>4.3.0.RELEASE</version>
+            <version>${springframework.version}</version>
         </dependency>
     </dependencies>
 

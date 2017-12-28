@@ -5,14 +5,14 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 public class HelloWorldInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 
     protected Class<?>[] getRootConfigClasses() {
-        return new Class[0];
+        return new Class[]{HelloWorldInitializer.class};
     }
 
     protected Class<?>[] getServletConfigClasses() {
-        return new Class[0];
+        return null;
     }
 
     protected String[] getServletMappings() {
-        return new String[0];
+        return new String[]{"/"};
     }
 }
