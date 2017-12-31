@@ -1,0 +1,11 @@
+com/yangfei/spring/uber/domain/Location$VehicleMovementType.class
+com/yangfei/spring/uber/restController/FleetBulkUploadRestController.class
+com/yangfei/spring/uber/FleetLocationServiceApplication.class
+com/yangfei/spring/uber/domain/UnitInfo.class
+com/yangfei/spring/uber/domain/LocationRepository.class
+com/yangfei/spring/uber/domain/FaultCode.class
+com/yangfei/spring/uber/service/LocationService.class
+com/yangfei/spring/uber/domain/Location.class
+com/yangfei/spring/uber/service/impl/LocationServiceImpl.class
+com/yangfei/spring/uber/domain/UnitFault.class
+com/yangfei/spring/uber/domain/Location$GpsStatus.class
