@@ -10,4 +10,6 @@
 
 ## Week 2  Learn Modern Java Application Development (Spring Boot, Spring Data)
 ### Week 2-1 Learn Spring Boot
-* Used ***Spring Boot*** to write *HelloWorld* REST API
+* Learned ***Spring Boot*** to write *HelloWorld* REST API
+### Week 2-2 Fleet Location Service
+* Used ***Spring Boot, Spring Data, Spring Cloud*** to write *Fleet Location Service*
