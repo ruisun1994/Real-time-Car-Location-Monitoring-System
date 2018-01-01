@@ -11,7 +11,7 @@ com:
     fleet:
       location:
         ingest: http://localhost:9006
-
+---
 spring:
   profiles: test
 ribbon:
