@@ -17,14 +17,12 @@ package demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
-@EnableDiscoveryClient
-public class FleetLocationIngestApplication {
+public class ServiceLocationServiceApplication {
 
-    public static void main(String[] args) throws Exception {
-        SpringApplication.run(FleetLocationIngestApplication.class);
+    public static void main(String[] args) {
+        SpringApplication.run(ServiceLocationServiceApplication.class, args);
     }
 
 }

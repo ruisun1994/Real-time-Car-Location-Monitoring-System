@@ -44,15 +44,10 @@ public class FleetLocationUpdaterSink {
 	@Autowired
 	private ObjectMapper objectMapper;
 
-	@Autowired
-	private ServiceLocationService serviceLocationService;
-
 	@ServiceActivator(inputChannel = Sink.INPUT)
 	public void updateLocationaddServiceLocations(String input) throws Exception {
 
 		CurrentPosition payload = this.objectMapper.readValue(input, CurrentPosition.class);
-
-//		serviceLocationService.updateServiceLocations(payload);
 
 		this.template.convertAndSend("/topic/vehicles", payload);
 	}
