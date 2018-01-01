@@ -4,7 +4,7 @@
 3. sh ./start-location-simulator.sh
 4. sh ./start-location-ingest.sh
 5. sh ./start-location-updater.sh
-6. sh ./start-fleet-location-service.sh
+6. sh ./start-location-service.sh
 7. go to fleet location service folder and run sh ./upload-fleet.sh
 8. sh ./start-dashboard.sh
 
