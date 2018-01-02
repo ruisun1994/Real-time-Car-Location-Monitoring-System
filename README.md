@@ -17,8 +17,8 @@ Week 3-4 includes the ***Real-time Car Location Monitoring System project***. To
 #### Week 2-1 Learn Spring Boot
 * Learned **Spring Boot** to write *HelloWorld* REST API
 #### Week 2-2 Fleet Location Service
-* Used **Spring Boot, Spring Data, Spring Cloud** to write *Fleet Location Service*
-
+* Learned **Spring Boot, Spring Data, Spring Cloud** 
+* Wrote the *Fleet Location Service* module
 
 ## Week 3-4  Real-time Car Location Monitoring System
 <a href="./week 3-4">(See the project)</a>
