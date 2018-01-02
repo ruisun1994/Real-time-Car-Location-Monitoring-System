@@ -19,4 +19,5 @@ This project is a real-time car location simulation and monitoring system using 
 * Wrote the *Fleet Location Service* module
 
 ## Week 3-4  Real-time Car Location Monitoring System  <a href="./week 3-4">(See the project)</a>
-
+**Service Architecture**
+<img src="./week 3-4/Architecture.png">
