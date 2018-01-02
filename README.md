@@ -6,17 +6,17 @@ Week 1-2 includes the learning process.
 Week 3-4 includes the ***Real-time Car Location Monitoring System project***. To see the demo and start instruction of the project, please go to the *week3-4* folder.
 
 
-## Week 1  Learn Spring, Maven & Tomcat
-
+### Week 1  Learn Spring, Maven & Tomcat 
+<a href="./week 1 - Learn Basics">(go to the folder)</a>
 * Used **Spring** to write *HelloWorld* REST API
 * Created **Maven** Project in **IntelliJ**
 * Deployed war file in **Tomcat**
 
-
-## Week 2  Learn Modern Java Application Development (Spring Boot, Spring Data)
-### Week 2-1 Learn Spring Boot
+### Week 2  Learn Modern Java Application Development (Spring Boot, Spring Data)
+<a href="./week 2 - Learn Modern Java Application Development">(Week 2)</a>
+#### Week 2-1 Learn Spring Boot
 * Learned **Spring Boot** to write *HelloWorld* REST API
-### Week 2-2 Fleet Location Service
+#### Week 2-2 Fleet Location Service
 * Used **Spring Boot, Spring Data, Spring Cloud** to write *Fleet Location Service*
 
 
