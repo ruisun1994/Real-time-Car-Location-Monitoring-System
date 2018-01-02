@@ -1,9 +1,10 @@
 # Real-time Car Location Monitoring System
 
-This Repository includes the Real-time Car Location Monitoring System as well as the process of learning **Maven**, **Tomcat**, **Spring MVC**, **Spring Boot**, **Spring Data**, **Spring Cloud**, **JPA**, **WebSocket**, **RabbitMQ**.
+This Repository includes the Real-time Car Location Monitoring System as well as the process of learning **Maven**, **Tomcat**, **Spring MVC**, **Spring Boot**, **Spring Data**, **Spring Cloud**, **JPA**, **WebSocket**, **RabbitMQ**, etc.
 
 Week 1-2 includes the learning process.
 Week 3-4 includes the ***Real-time Car Location Monitoring System project***. To see the demo and start instruction of the project, please go to the *week3-4* folder.
+
 
 ## Week 1  Learn Spring, Maven & Tomcat
 
