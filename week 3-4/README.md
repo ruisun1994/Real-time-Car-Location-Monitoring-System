@@ -14,9 +14,9 @@
 **User Interface**
 1. Open Dashboard UI on http://localhost:8080
 2. Open Simulator UI on http://localhost:9005
-3. Click "run simulation" in Simulator and see the changes in Dashboard.
+3. Click "Start Simulation" in Simulator and see the changes in Dashboard.
 4. Open Eureka UI on http://localhost:8761
-5. Open RabbitMQ UI on http://localhost:15672
+5. Open RabbitMQ UI on http://localhost:15672 (Username: guest, Password guest)
 
 **Service Architecture**
 <img src="./Architecture.png">
