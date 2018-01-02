@@ -7,7 +7,7 @@ Week 3-4 includes the ***Real-time Car Location Monitoring System project***. To
 
 
 ### Week 1  Learn Spring, Maven & Tomcat 
-<a href="./week 1 - Learn Basics">(go to the folder)</a>
+<a href="./week 1 - Learn Basics">(Week 1)</a>
 * Used **Spring** to write *HelloWorld* REST API
 * Created **Maven** Project in **IntelliJ**
 * Deployed war file in **Tomcat**
@@ -21,3 +21,5 @@ Week 3-4 includes the ***Real-time Car Location Monitoring System project***. To
 
 
 ## Week 3-4  Real-time Car Location Monitoring System
+<a href="./week 3-4">(See the project)</a>
+
